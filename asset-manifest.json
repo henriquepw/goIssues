@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/goIssues/static/js/main.14e575f7.chunk.js",
-    "main.js.map": "/goIssues/static/js/main.14e575f7.chunk.js.map",
+    "main.js": "/goIssues/static/js/main.a191b0b4.chunk.js",
+    "main.js.map": "/goIssues/static/js/main.a191b0b4.chunk.js.map",
     "runtime~main.js": "/goIssues/static/js/runtime~main.08c1da23.js",
     "runtime~main.js.map": "/goIssues/static/js/runtime~main.08c1da23.js.map",
-    "static/js/2.73b5bc7d.chunk.js": "/goIssues/static/js/2.73b5bc7d.chunk.js",
-    "static/js/2.73b5bc7d.chunk.js.map": "/goIssues/static/js/2.73b5bc7d.chunk.js.map",
+    "static/js/2.328e3035.chunk.js": "/goIssues/static/js/2.328e3035.chunk.js",
+    "static/js/2.328e3035.chunk.js.map": "/goIssues/static/js/2.328e3035.chunk.js.map",
     "index.html": "/goIssues/index.html",
-    "precache-manifest.e08170f8c51e8cc82d37669a13c9edab.js": "/goIssues/precache-manifest.e08170f8c51e8cc82d37669a13c9edab.js",
+    "precache-manifest.f1ec3ee5f47d124d85a18e2b6af9bdf1.js": "/goIssues/precache-manifest.f1ec3ee5f47d124d85a18e2b6af9bdf1.js",
     "service-worker.js": "/goIssues/service-worker.js"
   }
 }
