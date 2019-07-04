@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/goIssues/static/js/main.14e575f7.chunk.js",
+    "main.js.map": "/goIssues/static/js/main.14e575f7.chunk.js.map",
+    "runtime~main.js": "/goIssues/static/js/runtime~main.08c1da23.js",
+    "runtime~main.js.map": "/goIssues/static/js/runtime~main.08c1da23.js.map",
+    "static/js/2.73b5bc7d.chunk.js": "/goIssues/static/js/2.73b5bc7d.chunk.js",
+    "static/js/2.73b5bc7d.chunk.js.map": "/goIssues/static/js/2.73b5bc7d.chunk.js.map",
+    "index.html": "/goIssues/index.html",
+    "precache-manifest.e08170f8c51e8cc82d37669a13c9edab.js": "/goIssues/precache-manifest.e08170f8c51e8cc82d37669a13c9edab.js",
+    "service-worker.js": "/goIssues/service-worker.js"
+  }
+}
